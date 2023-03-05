@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rk0775.github.io",
+  "homepage": "https://rk0775",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
